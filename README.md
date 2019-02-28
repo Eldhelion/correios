@@ -1,6 +1,7 @@
 # Correios
 
 ----------------------
+Fork do cpbdigital/correios.
 Package para consulta de serviços diretamente no site dos correios, sem usar apis de terceiros.
 
 Baseado nos seguintes repositório:

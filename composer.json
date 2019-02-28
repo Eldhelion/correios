@@ -1,6 +1,6 @@
 {
-    "name": "cpbdigital/correios",
-    "description": "Package para pesquisa de serviços de busca por cep, calculo de frete e etc, diretamente nos serviços dos Correios.",
+    "name": "eldhelion/correios",
+    "description": "Fork do cpbdigital/correios. Package para pesquisa de serviços de busca por cep, calculo de frete e etc, diretamente nos serviços dos Correios.",
     "keywords": ["cep","brazil","laravel","frete"],
     "license": "MIT",
     "authors": [
